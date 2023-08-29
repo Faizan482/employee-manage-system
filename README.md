@@ -1,2 +1,2 @@
 # employee-manage-system
-employee managment system
+employee management system
